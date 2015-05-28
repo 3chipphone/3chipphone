@@ -1,33 +1,45 @@
-# 3chipphone
-a cheap 3d and 2d printed phone
-
+# 3chipphone   
+a cheap 3d and 2d printed phone  
+  
 #
-it is  for doing a cheap 2d and 3d printed phone
+it is  for doing a cheap 2d and 3d printed phone  
 #
-this is the basic capabilities
-and branches for evolved versions
+this is the basic capabilities  
+and branches for evolved versions  
 #
-you can check it take it and print it to use it 
+you will be able to check it take it and print it to use it  
 #
-
+  
 cheap and ease of use  
 to be a print and use  
-
-
-
+  
+  
+  
 #
-you can suggest your modules and things if you want the phone to be 
-as long as you do it for the phone and its users 
-and dont take it personnal 
+you can suggest your modules and things if you want the phone to be  
+as long as you do it for the phone and its users  
+and dont take it personnal  
+  
+  
+  
+check the issues  
+the way is cheap and easy to use  
+  
+  
+    
+the tasks to do it are
 
-
-
-check the issues
-the way is cheap and easy to use
-
+to create or find hardware to be printed  
+circuit chips lasers crypto  
+and to create or find the material
+and the devices do it
+    
+  
+#
+  
 you can check the github how to 
-
-
+  
+  
 #
 the basic scheme is 
 3 chip
@@ -67,11 +79,11 @@ that sends it to the capsule for waves
    all needs to be done  
      
    cheaper  
-   may mean redoing the processes  
+   may mean redoing the processes
+   
        
    ease of use   
    may mean print all  
-   
    
    capsule   
    crypto chip  
